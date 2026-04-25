@@ -1,0 +1,1 @@
+To run this script simply open the repository in VS Code. Once opened, open the terminal and use 'python pythonAssessment.py' to run the script, where you are able to select 1/3 options. If selecting 1 or 2, paste the desired text into the terminal after selecting either option. 
